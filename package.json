@@ -10,7 +10,7 @@
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.3",
     "react-native-svg-charts": "^5.2.0",
-    "react-native-svg": "^8.0.1"
+    "react-native-svg": "react-native-community/react-native-svg.git#v8.0.3"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",

@@ -22,12 +22,9 @@ type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
-      // <View style={styles.container}>
+      //  <View style={styles.container}>
         <PieChartWithDynamicSlices style={{flex: 1}} />
-        //{/* <Text style={styles.welcome}>Welcome to React Native!</Text>
-        //<Text style={styles.instructions}>To get started, edit App.js</Text>
-        //<Text style={styles.instructions}>{instructions}</Text> */}
-      // </View>
+      //  </View>
     );
   }
 }
@@ -37,7 +34,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    backgroundColor: '#FF0000',
   },
   welcome: {
     fontSize: 20,
